@@ -1,1 +1,2 @@
 Hello from chapter2.
+day 1: My first day.
