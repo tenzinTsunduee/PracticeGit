@@ -1,9 +1,1 @@
-hello from Command Line Interface
-2nd Day: This is around 12:38, it is past mid night and I am learning git repositories.
-Future note: I am making some changes.
-3rd Day: Lets assume this is third day of the learning, I want to see whether it will show me the second day as the save point, even if it is not stage.
-4th Day:I am making some change here.
-5th Day: Adding some more changes.
-6th Day: I remember something, I change some file in 2nd Day. Let me update it now.
-7th Day : Here i am again..
-8th Day: I stop here.
+1: First day
